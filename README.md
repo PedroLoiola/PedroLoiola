@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PedroLoiola
 - 👀 I’m interested in bioinformatics (imunnoinformatics and protein biology) & compuational epidemiology
 - 🌱 I’m currently learning python
-- 📫 How to reach me ...
 - 😄 Pronouns: he/ his
 
 <!---
